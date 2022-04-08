@@ -6,15 +6,15 @@ using System.Text;
 
 namespace ServerCore
 {
-    class Listener
+    public class Listener
     {
         Socket _listenSocket;
-        Action<Socket> _onAcceptHandler;
+        Func<Session> _sessionFactory;
 
-        public void Init(IPEndPoint endPoint, Action<Socket> onAcceptHandler)
+        public void Init(IPEndPoint endPoint, Func<Session> sessionFactory)
         {
             _listenSocket = new Socket(endPoint.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
-            _onAcceptHandler += onAcceptHandler;
+            _sessionFactory += sessionFactory;
 
             _listenSocket.Bind(endPoint);
 
@@ -29,6 +29,8 @@ namespace ServerCore
 
         void RegisterAccept(SocketAsyncEventArgs args)
         {
+            args.AcceptSocket = null;
+
             bool pending = _listenSocket.AcceptAsync(args);
 
             // pending == false 이면, Accept가 바로 수행됐음을 의미함
@@ -40,8 +42,9 @@ namespace ServerCore
         {
             if (args.SocketError == SocketError.Success)
             {
-                // Accept 됨 => 초기화 시에 등록한 EventHandler를 통해 Socket 리턴
-                _onAcceptHandler.Invoke(args.AcceptSocket);
+                Session session = _sessionFactory.Invoke();
+                session.Init(args.AcceptSocket);
+                session.OnConnected(args.AcceptSocket.RemoteEndPoint);
             }
             else
             {
@@ -52,11 +55,5 @@ namespace ServerCore
             // 다시 Accept Async
             RegisterAccept(args);
         }
-
-        public Socket Accept()
-        {
-            return _listenSocket.Accept();
-        }
-
     }
 }

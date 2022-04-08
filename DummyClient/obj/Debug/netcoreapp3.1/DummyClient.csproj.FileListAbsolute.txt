@@ -1,0 +1,17 @@
+C:\workspace\MorrServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.exe
+C:\workspace\MorrServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.deps.json
+C:\workspace\MorrServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.runtimeconfig.json
+C:\workspace\MorrServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.runtimeconfig.dev.json
+C:\workspace\MorrServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.dll
+C:\workspace\MorrServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.pdb
+C:\workspace\MorrServer\DummyClient\bin\Debug\netcoreapp3.1\ServerCore.dll
+C:\workspace\MorrServer\DummyClient\bin\Debug\netcoreapp3.1\ServerCore.pdb
+C:\workspace\MorrServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csproj.AssemblyReference.cache
+C:\workspace\MorrServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\MorrServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.AssemblyInfoInputs.cache
+C:\workspace\MorrServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.AssemblyInfo.cs
+C:\workspace\MorrServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csproj.CoreCompileInputs.cache
+C:\workspace\MorrServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csproj.CopyComplete
+C:\workspace\MorrServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.dll
+C:\workspace\MorrServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.pdb
+C:\workspace\MorrServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.genruntimeconfig.cache

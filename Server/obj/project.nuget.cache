@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "17WS+Otc7HCIh/J5re8egsxlEjhPx6opGjznT2pOel67tjQL6rGvkKs1vMOJXznXOGGVDlVvFoRtuiL29RoUUw==",
+  "dgSpecHash": "fb6uHCQsJSW689xW2eTNRJDciXqhp6VHiTU6/LiNI8iVf4NG9ctz1hAfocOXca/X7L8G9jmmnT78OsXtev6nOw==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\Morr\\Morr_Server\\Server\\Server.csproj",
+  "projectFilePath": "C:\\workspace\\MorrServer\\Server\\Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

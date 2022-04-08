@@ -1,0 +1,17 @@
+C:\workspace\MorrServer\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\workspace\MorrServer\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\workspace\MorrServer\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\workspace\MorrServer\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\workspace\MorrServer\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\workspace\MorrServer\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\workspace\MorrServer\Server\bin\Debug\netcoreapp3.1\ServerCore.dll
+C:\workspace\MorrServer\Server\bin\Debug\netcoreapp3.1\ServerCore.pdb
+C:\workspace\MorrServer\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+C:\workspace\MorrServer\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\MorrServer\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\workspace\MorrServer\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\workspace\MorrServer\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\workspace\MorrServer\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+C:\workspace\MorrServer\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\workspace\MorrServer\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\workspace\MorrServer\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache

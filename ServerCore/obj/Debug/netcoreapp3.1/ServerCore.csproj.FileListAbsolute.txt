@@ -1,0 +1,10 @@
+C:\workspace\MorrServer\ServerCore\bin\Debug\netcoreapp3.1\ServerCore.deps.json
+C:\workspace\MorrServer\ServerCore\bin\Debug\netcoreapp3.1\ServerCore.dll
+C:\workspace\MorrServer\ServerCore\bin\Debug\netcoreapp3.1\ServerCore.pdb
+C:\workspace\MorrServer\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.csproj.AssemblyReference.cache
+C:\workspace\MorrServer\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\MorrServer\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.AssemblyInfoInputs.cache
+C:\workspace\MorrServer\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.AssemblyInfo.cs
+C:\workspace\MorrServer\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.csproj.CoreCompileInputs.cache
+C:\workspace\MorrServer\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.dll
+C:\workspace\MorrServer\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.pdb

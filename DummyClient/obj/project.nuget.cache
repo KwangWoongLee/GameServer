@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yPXlpkln50vpQbe6eWNdkmDsHEaZSNR2vadUzS67RNqPv8Y6yW0tAjg4KoJWYr8ypWPDcxqWAgZNB932ohMqug==",
+  "dgSpecHash": "wjrzyCRMVPk2fcv70M2ecuWeYLoiTdk8JgRDyFmiSV9V5vaRe/1RKoZdso1RohVSbBfBw13YboISti1OnG6sMA==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\Morr\\Morr_Server\\DummyClient\\DummyClient.csproj",
+  "projectFilePath": "C:\\workspace\\MorrServer\\DummyClient\\DummyClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
