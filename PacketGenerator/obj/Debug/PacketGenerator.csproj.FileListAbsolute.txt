@@ -1,0 +1,14 @@
+C:\workspace\MorrServer\PacketGenerator\bin\PacketGenerator.exe
+C:\workspace\MorrServer\PacketGenerator\bin\PacketGenerator.deps.json
+C:\workspace\MorrServer\PacketGenerator\bin\PacketGenerator.runtimeconfig.json
+C:\workspace\MorrServer\PacketGenerator\bin\PacketGenerator.runtimeconfig.dev.json
+C:\workspace\MorrServer\PacketGenerator\bin\PacketGenerator.dll
+C:\workspace\MorrServer\PacketGenerator\bin\PacketGenerator.pdb
+C:\workspace\MorrServer\PacketGenerator\obj\Debug\PacketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\MorrServer\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfoInputs.cache
+C:\workspace\MorrServer\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfo.cs
+C:\workspace\MorrServer\PacketGenerator\obj\Debug\PacketGenerator.csproj.CoreCompileInputs.cache
+C:\workspace\MorrServer\PacketGenerator\obj\Debug\PacketGenerator.dll
+C:\workspace\MorrServer\PacketGenerator\obj\Debug\PacketGenerator.pdb
+C:\workspace\MorrServer\PacketGenerator\obj\Debug\PacketGenerator.genruntimeconfig.cache
+C:\workspace\MorrServer\PacketGenerator\obj\Debug\PacketGenerator.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\workspace\MorrServer\PacketGenerator\bin\Debug\netcoreapp3.1\PacketGenerator.exe
+C:\workspace\MorrServer\PacketGenerator\bin\Debug\netcoreapp3.1\PacketGenerator.deps.json
+C:\workspace\MorrServer\PacketGenerator\bin\Debug\netcoreapp3.1\PacketGenerator.runtimeconfig.json
+C:\workspace\MorrServer\PacketGenerator\bin\Debug\netcoreapp3.1\PacketGenerator.runtimeconfig.dev.json
+C:\workspace\MorrServer\PacketGenerator\bin\Debug\netcoreapp3.1\PacketGenerator.dll
+C:\workspace\MorrServer\PacketGenerator\bin\Debug\netcoreapp3.1\PacketGenerator.pdb
+C:\workspace\MorrServer\PacketGenerator\obj\Debug\netcoreapp3.1\PacketGenerator.csproj.AssemblyReference.cache
+C:\workspace\MorrServer\PacketGenerator\obj\Debug\netcoreapp3.1\PacketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\MorrServer\PacketGenerator\obj\Debug\netcoreapp3.1\PacketGenerator.AssemblyInfoInputs.cache
+C:\workspace\MorrServer\PacketGenerator\obj\Debug\netcoreapp3.1\PacketGenerator.AssemblyInfo.cs
+C:\workspace\MorrServer\PacketGenerator\obj\Debug\netcoreapp3.1\PacketGenerator.csproj.CoreCompileInputs.cache
+C:\workspace\MorrServer\PacketGenerator\obj\Debug\netcoreapp3.1\PacketGenerator.dll
+C:\workspace\MorrServer\PacketGenerator\obj\Debug\netcoreapp3.1\PacketGenerator.pdb
+C:\workspace\MorrServer\PacketGenerator\obj\Debug\netcoreapp3.1\PacketGenerator.genruntimeconfig.cache
