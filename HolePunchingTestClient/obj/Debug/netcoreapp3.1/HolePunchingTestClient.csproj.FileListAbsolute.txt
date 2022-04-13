@@ -1,0 +1,16 @@
+C:\workspace\MorrServer\HolePunchingTestClient\bin\Debug\netcoreapp3.1\HolePunchingTestClient.exe
+C:\workspace\MorrServer\HolePunchingTestClient\bin\Debug\netcoreapp3.1\HolePunchingTestClient.deps.json
+C:\workspace\MorrServer\HolePunchingTestClient\bin\Debug\netcoreapp3.1\HolePunchingTestClient.runtimeconfig.json
+C:\workspace\MorrServer\HolePunchingTestClient\bin\Debug\netcoreapp3.1\HolePunchingTestClient.runtimeconfig.dev.json
+C:\workspace\MorrServer\HolePunchingTestClient\bin\Debug\netcoreapp3.1\HolePunchingTestClient.dll
+C:\workspace\MorrServer\HolePunchingTestClient\bin\Debug\netcoreapp3.1\HolePunchingTestClient.pdb
+C:\workspace\MorrServer\HolePunchingTestClient\obj\Debug\netcoreapp3.1\HolePunchingTestClient.csproj.AssemblyReference.cache
+C:\workspace\MorrServer\HolePunchingTestClient\obj\Debug\netcoreapp3.1\HolePunchingTestClient.Form1.resources
+C:\workspace\MorrServer\HolePunchingTestClient\obj\Debug\netcoreapp3.1\HolePunchingTestClient.csproj.GenerateResource.cache
+C:\workspace\MorrServer\HolePunchingTestClient\obj\Debug\netcoreapp3.1\HolePunchingTestClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\MorrServer\HolePunchingTestClient\obj\Debug\netcoreapp3.1\HolePunchingTestClient.AssemblyInfoInputs.cache
+C:\workspace\MorrServer\HolePunchingTestClient\obj\Debug\netcoreapp3.1\HolePunchingTestClient.AssemblyInfo.cs
+C:\workspace\MorrServer\HolePunchingTestClient\obj\Debug\netcoreapp3.1\HolePunchingTestClient.csproj.CoreCompileInputs.cache
+C:\workspace\MorrServer\HolePunchingTestClient\obj\Debug\netcoreapp3.1\HolePunchingTestClient.dll
+C:\workspace\MorrServer\HolePunchingTestClient\obj\Debug\netcoreapp3.1\HolePunchingTestClient.pdb
+C:\workspace\MorrServer\HolePunchingTestClient\obj\Debug\netcoreapp3.1\HolePunchingTestClient.genruntimeconfig.cache

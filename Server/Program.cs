@@ -1,5 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Net;
+using System.Net.Sockets;
+using System.Text;
 using ServerCore;
 
 namespace Server
@@ -17,11 +20,12 @@ namespace Server
             string host = Dns.GetHostName();
             IPHostEntry ipHost = Dns.GetHostEntry(host);
             IPAddress ipAddress = ipHost.AddressList[0];
-            IPEndPoint endPoint = new IPEndPoint(ipAddress, 7777);
+            IPEndPoint endPoint = new IPEndPoint(IPAddress.Any, 7777);
 
-
+            #region TCP
             _listener.Init(endPoint, () => { return new ClientSession(); });
             Console.WriteLine("Listening....");
+            #endregion
 
 
             //프로그램이 끝나지만 않게 대기
